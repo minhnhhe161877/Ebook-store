@@ -28,7 +28,6 @@ Check out the live demo of the application on Netlify: [Live Demo](https://front
 <h2>#Installation</h2>
 <ul>
 
-<li>Navigate to the project directory: cd react-ecommerce</li>
 <li>Install dependencies: npm install</li>
 <li>Start the development server: npm start</li>
 <li>Start the Backend Server: json-server data/db.json -m ./node_modules/json-server-auth -r data/routes.json  --port 8000</li>
