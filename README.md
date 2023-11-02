@@ -27,7 +27,7 @@ Check out the live demo of the application on Netlify: [Live Demo](https://front
 
 <h2>#Installation</h2>
 <ul>
-<li>Clone the repository: git clone https://github.com/saksham-raghuvanshi/react-ecommerce</li>
+
 <li>Navigate to the project directory: cd react-ecommerce</li>
 <li>Install dependencies: npm install</li>
 <li>Start the development server: npm start</li>
